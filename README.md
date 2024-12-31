@@ -6,18 +6,22 @@ Conventional methods of attendance tracking often suffer from inaccuracies and i
 
 **METHODOLOGY**
 
-The project methodology involves using facial recognition technology to automate attendance tracking. It employs image processing algorithms, including the Haar Cascade Classifier for face detection and the LPBH model for face recognition. 
+The project methodology involves using facial recognition technology to automate attendance tracking. 
+It employs image processing algorithms, including the Haar Cascade Classifier for face detection and the LPBH model for face recognition. 
 
 Haar cascade employs rectangular patterns called Haar-like features to distinguish between objects and backgrounds. Trained using positive and negative images, it uses a cascade of classifiers to efficiently evaluate regions of an image, identifying potential objects like faces. This method provides a fast and effective approach to face detection by leveraging basic features and sequential evaluation.
 
 **Features**
-Face Detection:Utilize pre-trained deep learning models for accurate face detection in images/videos.
-Face Recognition: Train a deep learning model for face recognition. 
-Data Collection: Gather a dataset of images containing faces of individuals whose attendance you want to track. 
-Data Preprocessing: Preprocess the images by resizing them to a standard size, converting them to grayscale, and normalizing pixel values. 
+
+Face Detection:     Utilize pre-trained deep learning models for accurate face detection in images/videos.
+Face Recognition:   Train a deep learning model for face recognition. 
+Data Collection:     Gather a dataset of images containing faces of individuals whose attendance you want to track. 
+Data Preprocessing:    Preprocess the images by resizing them to a standard size, converting them to grayscale, and normalizing pixel values. 
 
 **Project Setup**
+
 Prerequisites
+
 Python 3.x installed
 Install the required Python libraries by running the following command:
 Use the package manager pip to install

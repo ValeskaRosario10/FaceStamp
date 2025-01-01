@@ -4,6 +4,9 @@
 
 Conventional methods of attendance tracking often suffer from inaccuracies and inefficiencies. Addressing this issue necessitates the implementation of automated systems in organizations and educational institutions. By automating attendance tracking, manual efforts are minimized, and the likelihood of errors is significantly reduced, thereby enhancing overall accuracy and efficiency.
 
+
+https://github.com/user-attachments/assets/8689682f-939f-4465-ba5c-74faf9ebdfbe
+
 **METHODOLOGY**
 
 The project methodology involves using facial recognition technology to automate attendance tracking. 
